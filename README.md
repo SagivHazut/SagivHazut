@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sagivhazut/Sagivhazut/output/snake.svg" alt="Snake animation" />
+<img src="https://githubusercontent.com/SagivHazut/SagivHazut/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
